@@ -1,4 +1,6 @@
-pytest
-pytest-cov
-requests
-requests-mock
+pytest          # para ejecutar las pruebas unitarias
+pytest-cov      # mide y reporta la cobertura de código
+coverage        # para medir la cobertura de las pruebas
+requests        
+requests-mock   # facilita el uso de mocks en pytest
+cryptography    # ayuda a implementar el RSA y el AES
