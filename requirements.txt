@@ -4,3 +4,4 @@ coverage        # para medir la cobertura de las pruebas
 requests        
 requests-mock   # facilita el uso de mocks en pytest
 cryptography    # ayuda a implementar el RSA y el AES
+pycryptodome
